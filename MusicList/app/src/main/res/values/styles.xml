@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. 967ad6-->
+    <style name="AppTheme" parent="android:Theme">
+        <!-- Customize your theme here.-->
+        <item name="android:windowTitleSize">70dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+        <item name="android:windowTitleStyle">@style/CustomWindowTitle</item>
+        <item name="android:background">#fff</item>
+    </style>
+    <style name="CustomWindowTitleBackground">
+        <item name="android:background">#967ad6</item>
+    </style>
+    <style name="CustomWindowTitle" parent="android:TextAppearance.WindowTitle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">20dp</item>
+    </style>
+    <style name="textTags">
+        android:textStyle="normal"
+        android:textSize="18sp"
+        android:textColor="#b7b7b7"
+    </style>
+    <style name="textDescr">
+        android:textStyle="normal"
+        android:textSize="20sp"
+        android:textColor="#000"
+    </style>
+</resources>

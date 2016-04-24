@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Исполнители</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_artist">ArtistActivity</string>
+    <string name="bio">Биография</string>
+    <string name="img">img</string>
+
+    <string name="alb1">альбом</string>
+    <string name="alb2">альбома</string>
+    <string name="alb5">альбомов</string>
+
+    <string name="song1">песня</string>
+    <string name="song2">песни</string>
+    <string name="song5">песен</string>
+
+    <string name="JSONElementError">Данные не загружены из-за ошибки в JSON-файле</string>
+
+
+</resources>
